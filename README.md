@@ -127,6 +127,7 @@ Pre-processing Workflow
  have taken the reliance stock data from yahoo finance from 2014 to 2019. We performed
  functions to remove the Null values and empty values to avoid the wrong visualization of data.
 These steps were pretty easy to perform given the predefined functions on R: ‘ quantmod ‘ and ‘dplyr ‘
+
 <img width="475" alt="image" src="https://github.com/user-attachments/assets/5d23adf4-4573-4bc6-b6b6-87efcfd8689b">
 
  
@@ -269,6 +270,8 @@ Our Conclusions and Future Scope
  exploring new approaches and incorporating additional data sources, future
  work can further advance our understanding of this important area and
  improve predictive models for stock market analysis.
+
+ 
 References
  1.) https://www.rpubs.com/AurelliaChristie/time-series-and-stock-analysis
  2.) https://finance.yahoo.com/quote/RELIANCE.NS?p=RELIANCE.NS&.tsrc=
